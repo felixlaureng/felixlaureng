@@ -26,7 +26,7 @@ I'm an Industrial Engineering graduate from Universitas Indonesia with a strong 
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/felix-ferdinand-laureng/)
+- LinkedIn: [Felix Ferdinand Laureng](https://www.linkedin.com/in/felix-ferdinand-laureng/)
 - Email: felixlaureng@gmail.com
 
 ---
