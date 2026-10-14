@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Felix 👋
 
-<!--
-**felixlaureng/felixlaureng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Engineering Graduate | Data Science and Analytics Enthusiast**
 
-Here are some ideas to get you started:
+I'm an Industrial Engineering graduate from Universitas Indonesia with a strong interest in data analytics, business intelligence, and data engineering. I enjoy transforming raw data into actionable insights and building data-driven solutions to solve business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background
+- **Universitas Indonesia** — Industrial Engineering, GPA 3.81/4.00
+- **Hacktiv8** — Comprehensive Data Analytics, graduated with Honors
+- **Experience:** Wealth Management Product Development at BRI
+
+## 🛠️ Tech Stack
+
+**Data Analytics:** Python, SQL, Pandas, Statistical Analysis, EDA
+
+**Data Visualization:** Tableau, Excel, Looker
+
+**Data Engineering:** ETL/ELT, Data Pipelines, Data Modeling, PostgreSQL, SQLAlchemy, Data Quality
+
+**Currently Exploring:** FastAPI,REST APIs, LLM Applications, AI Engineering
+
+## 📊 Featured Projects
+
+- **Foreign Flow Stock Prediction** — Multivariate time series analysis of Indonesian equities using foreign investor flows and market data.
+- **E-Commerce Analytics** — Data analysis and business insights using SQL, Python, and Tableau.
+
+## 📫 Connect with Me
+
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/felix-ferdinand-laureng/)
+- Email: felixlaureng@gmail.com
+
+---
+
+*Continuous Improving through data.*
